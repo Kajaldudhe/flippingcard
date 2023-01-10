@@ -14,7 +14,7 @@ section{
     background: #121321;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center;      
     color: #fff;
     perspective: 1000px;
 }
